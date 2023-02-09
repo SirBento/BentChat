@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522478173768",
+    "project_id": "bentchart",
+    "storage_bucket": "bentchart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522478173768:android:3c5d6e287e4b1b428ae27d",
+        "android_client_info": {
+          "package_name": "com.example.bentchart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522478173768-a68h0li3acabps7dsgsmcfe6ddn1khga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYnynUDYPMomMaI7xLxCpG5yp6cdoleHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522478173768-a68h0li3acabps7dsgsmcfe6ddn1khga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
